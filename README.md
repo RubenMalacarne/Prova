@@ -18,7 +18,7 @@ The Game:
     - the game will be played by two groups at the time and the winner will continue the challenge
 
 To do:
-
     - BDI Agent
+        +
 
-        + Finish function
+
